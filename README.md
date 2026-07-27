@@ -90,6 +90,21 @@
 
 ---
 
+### 📝 Latest Publications (Medium)
+
+<div align="center">
+  <a href="https://medium.com/@sulthanabdi">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sulthanabdi/0" alt="Recent Article 1" width="400">
+  </a>
+  <a href="https://medium.com/@sulthanabdi">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sulthanabdi/1" alt="Recent Article 2" width="400">
+  </a>
+</div>
+
+<br>
+
+---
+
 ### 📫 Let's Connect!
 
 <div align="center">
@@ -98,6 +113,9 @@
   </a>
   <a href="mailto:sulthanabdi1@gmail.com">
     <img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sulthanabdi">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://website-sulthan.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
