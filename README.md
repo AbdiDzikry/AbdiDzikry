@@ -1,31 +1,112 @@
-<img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%">
+<!-- HEADER ANIMATED GRADIENT -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Sulthan%20Abdi%20Dzikry&fontSize=45&fontAlignY=35&animation=twinkling&desc=Fullstack%20Alchemist%20%7C%20UI/UX%20Architect&descSize=18&descAlignY=55" alt="Animated Header" width="100%" />
+</div>
 
-<a href="https://github.com/AbdiDzikry"><img src="https://komarev.com/ghpvc/?username=AbdiDzikry&label=Visits&color=4caf50&style=flat-square" alt="Visits"></a>
-<a href="https://linkedin.com/in/sulthan-abdi-dzikry"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-<a href="mailto:sulthanabdi1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail" alt="Email"></a>
-<a href="https://website-sulthan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=vercel" alt="Portfolio"></a>
+<br>
 
-Hey there 👋
+<div align="center">
+  <a href="https://github.com/AbdiDzikry">
+    <img src="https://komarev.com/ghpvc/?username=AbdiDzikry&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Visitors" />
+  </a>
+</div>
 
-I'm Sulthan, a full-stack engineer and UI/UX enthusiast who specializes in back-end logic and front-end design. I make it my mission to translate complex data into pixel-perfect, minimalist web applications that run blazing fast.
+<br>
 
-### 👨‍💻 What I do
-- **IT Digitalisasi Intern** @ PT Dharma Polimetal Tbk <br> <i>Built zero-discrepancy digital operational systems used by over 1,000 employees.</i>
-- **Product Designer** @ Codetag Studio <br> <i>Spearheaded end-to-end creative UI/UX production for various client projects.</i>
-- **UX Researcher Intern** @ Telkom Digital Amoeba <br> <i>Translated technical research data into actionable strategies and intuitive interfaces.</i>
-
-### 🛠️ My Toolbelt
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Interactive+Web+Apps;Crafting+Pixel-Perfect+UI/UX;Solving+Complex+Backend+Logic;Turning+Coffee+Into+Clean+Code" alt="Typing SVG" />
+</div>
 
 ---
 
-*Always looking for new challenges and opportunities to learn! Let's connect.*
+<!-- INTRO DENGAN GAMBAR GIF ANIMASI -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" align="right">
+  
+  <h3 align="left">👋 About Me</h3>
+  <p align="left">
+    I am an Informatics Engineering graduate from Telkom University. I love combining robust backend logic with highly interactive and aesthetic frontend designs. <br><br>
+    Currently focusing on <b>Headless Architecture</b> and <b>Zero-Discrepancy Systems</b>. When I'm not coding, I'm probably exploring new design trends, optimizing performance, or drinking a lot of coffee.
+  </p>
+</div>
+
+<br clear="all">
+
+---
+
+<!-- SKILL ICONS YANG MODERN & WARNA-WARNI -->
+### 🚀 Tech Stack & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,php,laravel,mysql,git,figma,postman&theme=dark&perline=5" alt="My Skills" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<!-- PENGALAMAN INTERAKTIF BISA DI-KLIK -->
+### 🌟 Professional Journey 
+
+<details>
+  <summary><b>👨‍💻 IT Digitalisasi Intern @ PT Dharma Polimetal Tbk</b></summary>
+  <blockquote>
+    Built digital operational systems used by over 1,000 employees. Ensured data accuracy through zero-discrepancy algorithms.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🎨 Product Designer @ Codetag Studio</b></summary>
+  <blockquote>
+    Spearheaded end-to-end creative UI/UX production for various client projects, ensuring highly interactive experiences.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🔍 UX Researcher Intern @ Telkom Digital Amoeba</b></summary>
+  <blockquote>
+    Translated technical research data into actionable strategies and intuitive user interfaces.
+  </blockquote>
+</details>
+
+---
+
+<!-- GITHUB STATS DENGAN TEMA TOKYONIGHT YANG ELEGAN -->
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/AbdiDzikry">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/AbdiDzikry">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/sulthan-abdi-dzikry">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sulthanabdi1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://website-sulthan.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<!-- FOOTER ANIMATED GRADIENT -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%" />
+</div>
