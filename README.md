@@ -1,98 +1,31 @@
-<!-- Banner Animasi -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&height=250&section=header&text=Sulthan%20Abdi%20Dzikry&fontSize=45&fontColor=1a202c&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20UI/UX%20Architect&descSize=18&descAlignY=55&descAlign=50" alt="Header Animasi" width="100%" />
-</div>
+<img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdiDzikry.AbdiDzikry&left_color=E2E8F0&right_color=1a202c&left_text=Profile%20Views" alt="Visitors" />
-</div>
+<a href="https://github.com/AbdiDzikry"><img src="https://komarev.com/ghpvc/?username=AbdiDzikry&label=Visits&color=4caf50&style=flat-square" alt="Visits"></a>
+<a href="https://linkedin.com/in/sulthan-abdi-dzikry"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:sulthanabdi1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail" alt="Email"></a>
+<a href="https://website-sulthan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=vercel" alt="Portfolio"></a>
 
-<br>
+Hey there 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2D3748&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Developing+Clean+&+Scalable+Web+Apps;Designing+Intuitive+User+Experiences;Turning+Coffee+Into+Code" alt="Typing SVG" />
-</div>
+I'm Sulthan, a full-stack engineer and UI/UX enthusiast who specializes in back-end logic and front-end design. I make it my mission to translate complex data into pixel-perfect, minimalist web applications that run blazing fast.
 
----
+### 👨‍💻 What I do
+- **IT Digitalisasi Intern** @ PT Dharma Polimetal Tbk <br> <i>Built zero-discrepancy digital operational systems used by over 1,000 employees.</i>
+- **Product Designer** @ Codetag Studio <br> <i>Spearheaded end-to-end creative UI/UX production for various client projects.</i>
+- **UX Researcher Intern** @ Telkom Digital Amoeba <br> <i>Translated technical research data into actionable strategies and intuitive interfaces.</i>
 
-<br>
+### 🛠️ My Toolbelt
 
-<div align="center">
-  <p style="font-size: 16px;">
-    <b>I’m a Software Engineer who focuses on clean code, performance, and pixel-perfect design.</b><br>
-    My expertise lies in bridging the gap between complex <b>Backend logic</b> and aesthetic <b>Frontend architecture</b> to create zero-discrepancy applications.
-  </p>
-</div>
-
-<br>
-
-### 🛠️ Tech Arsenal
-*Tools I use to build things from scratch:*
-
-<div align="center">
-  <br>
-  <b><code style="background:transparent; color:#718096">» FRONTEND</code></b><br>
-  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000&border=000000" />
-  <br><br>
-  <b><code style="background:transparent; color:#718096">» BACKEND & DATABASE</code></b><br>
-  <img src="https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000&border=000000" />
-  <br><br>
-  <b><code style="background:transparent; color:#718096">» DESIGN & TOOLS</code></b><br>
-  <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000&border=000000" />
-  <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=000000&border=000000" />
-  <br><br>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Code Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=transparent&hide_border=true&title_color=1a202c&icon_color=4a5568&text_color=4a5568" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&theme=transparent&hide_border=true&title_color=1a202c&text_color=4a5568" alt="Top Languages" />
-</div>
-
-<br>
-
-<details>
-  <summary><b>💼 Professional Experience (Click to expand)</b></summary>
-  <br>
-  <ul>
-    <li><b>IT Digitalisasi Intern @ PT Dharma Polimetal Tbk</b> <i>(Oct 2025 - Apr 2026)</i><br>
-    Built zero-discrepancy digital operational systems used by over 1,000 employees.</li>
-    <li><b>Product Designer @ Codetag Studio</b> <i>(Jul 2025 - Present)</i><br>
-    Spearheaded end-to-end creative UI/UX production for client projects.</li>
-    <li><b>UX Researcher Intern @ Telkom Digital Amoeba</b> <i>(Dec 2023 - Jan 2024)</i><br>
-    Formulated data-driven product strategies to increase user retention.</li>
-  </ul>
-</details>
-
----
-
-<div align="center">
-  <h3>Let's collaborate! 🤝</h3>
-  <p>Find me around the web:</p>
-  
-  <a href="https://linkedin.com/in/sulthan-abdi-dzikry">
-    <img src="https://img.shields.io/badge/-LinkedIn-1a202c?style=for-the-badge&logo=linkedin&logoColor=ffffff&border=000000" />
-  </a>
-  <a href="mailto:sulthanabdi1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-1a202c?style=for-the-badge&logo=gmail&logoColor=ffffff&border=000000" />
-  </a>
-  <a href="https://website-sulthan.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-1a202c?style=for-the-badge&logo=vercel&logoColor=ffffff&border=000000" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&height=100&section=footer" width="100%" />
-</div>
+*Always looking for new challenges and opportunities to learn! Let's connect.*
