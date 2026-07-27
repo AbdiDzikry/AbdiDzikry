@@ -89,9 +89,12 @@
 <h2 align="center">📈 DASHBOARD & ANALYTICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="45%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://badges.steamprofile.com/profile/default/steam/76561199009444546.png" width="45%" alt="Steam Profile" />
+  <!-- GitHub Stats (Disembunyikan sementara sampai ada public commit agar tidak error) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="45%" alt="GitHub Stats" /> -->
+  
+  <a href="https://steamcommunity.com/profiles/76561199009444546/">
+    <img src="https://github-readme-steam-card.vercel.app/api/steam?steamid=76561199009444546&theme=tokyonight" width="45%" alt="Steam Profile" />
+  </a>
 </p>
 
 <p align="center">
