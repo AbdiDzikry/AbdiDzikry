@@ -1,0 +1,77 @@
+<div align="center">
+  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sulthan+Abdi+Dzikry;Fullstack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <br><br>
+
+  <p style="color: #666666; font-size: 16px;">
+    <i>Transforming complex problems into elegant, minimalist digital solutions.</i>
+  </p>
+
+  <p>
+    I am an Informatics Engineering graduate from <b>Telkom University</b>. I specialize in building clean, efficient, and user-centric web applications by bridging the gap between precise backend logic and aesthetic frontend design.
+  </p>
+
+</div>
+
+---
+
+<br>
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <!-- Minimalist Monochrome Badges -->
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000&border=000000" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000&border=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=000000&border=000000" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=000000&border=000000" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=000000&border=000000" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000&border=000000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000000&border=000000" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000&border=000000" alt="Git" />
+</div>
+
+<br>
+
+### 💼 Experience
+
+- **IT Digitalisasi Intern** @ PT Dharma Polimetal Tbk
+  <br> <i>Designed and digitized operational systems (Zero Discrepancy) using web technologies for over 1,000 employees.</i>
+
+- **Product Designer & Creative Lead** @ Codetag Studio
+  <br> <i>Led end-to-end creative production, translating client requirements into intuitive UI/UX designs.</i>
+
+- **UX Researcher & Content Strategist Intern** @ Telkom Digital Amoeba
+  <br> <i>Translated technical research data into actionable product strategies and user-friendly interfaces.</i>
+
+<br>
+
+### 🚀 Currently Exploring
+- 🏗️ **Headless Architecture:** Seamless integration of Next.js with robust RESTful APIs (Laravel Sanctum).
+- ⚡ **Performance:** Server-side operations, eager loading, and clean code optimization.
+- 🎨 **Minimalism:** Crafting digital experiences that feel lightweight and premium.
+
+---
+
+<br>
+
+<div align="center">
+  <p><b>Let's connect!</b></p>
+  <a href="mailto:sulthanabdi1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000&border=000000" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sulthan-abdi-dzikry">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000&border=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://website-sulthan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000&border=000000" alt="Portfolio" />
+  </a>
+</div>
+
+<!-- GitHub Stats (Monochrome Theme) -->
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=333333&text_color=666666&bg_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdiDzikry&theme=default&hide_border=true&title_color=333333&icon_color=333333&text_color=666666&bg_color=ffffff&ring=333333&fire=333333&currStreakLabel=333333" alt="GitHub Streak" width="48%" />
+</div>
