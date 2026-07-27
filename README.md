@@ -5,15 +5,17 @@
 
 <!-- CALL TO ACTION (CTA) BUTTONS -->
 <div align="center">
-  <h3>Architecting scalable backends & designing pixel-perfect frontends.</h3>
+  <p><i>Architecting scalable backends & designing pixel-perfect frontends.</i></p>
   <a href="https://website-sulthan.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/sulthan-abdi-dzikry">
-    <img src="https://img.shields.io/badge/👔_Connect_on_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:sulthanabdi1@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Hire_Me-ea4335?style=for-the-badge" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/Hire%20Me-ea4335?style=flat&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
 </div>
 <br>
@@ -93,7 +95,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="45%" alt="GitHub Stats" /> -->
   
   <a href="https://steamcommunity.com/profiles/76561199009444546/">
-    <img src="https://github-readme-steam-card.vercel.app/api/steam?steamid=76561199009444546&theme=tokyonight" width="45%" alt="Steam Profile" />
+    <img src="https://badges.steamprofile.com/profile/default/steam/76561199009444546.png" width="45%" alt="Steam Profile" />
   </a>
 </p>
 
