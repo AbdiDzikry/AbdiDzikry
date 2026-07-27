@@ -105,6 +105,19 @@
 
 ---
 
+### 🎮 Gaming Activity (Steam)
+
+<div align="center">
+  <p><i>Biasa main game apa nih? Cek aktivitas Steam saya di bawah:</i></p>
+  <a href="https://steamcommunity.com/profiles/76561199009444546/">
+    <img src="https://badges.steamprofile.com/profile/default/steam/76561199009444546.png" alt="Sulthan's Steam Profile" />
+  </a>
+</div>
+
+<br>
+
+---
+
 ### 📫 Let's Connect!
 
 <div align="center">
