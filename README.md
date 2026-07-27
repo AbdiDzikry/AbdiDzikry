@@ -54,8 +54,9 @@
 ### 📊 Code Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=transparent&hide_border=true&title_color=1a202c&icon_color=4a5568&text_color=4a5568&bg_color=ffffff&custom_title=Sulthan's%20GitHub%20Stats" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&theme=transparent&hide_border=true&title_color=1a202c&text_color=4a5568&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=transparent&hide_border=true&title_color=1a202c&icon_color=4a5568&text_color=4a5568" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&theme=transparent&hide_border=true&title_color=1a202c&text_color=4a5568" alt="Top Languages" />
 </div>
 
 <br>
