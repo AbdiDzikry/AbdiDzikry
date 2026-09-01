@@ -94,7 +94,7 @@ The machine reports honestly. Output rises as the line keeps improving.
 
 ```
    uptime        ██████████░░  3 orders completed
-   in-process    ███░░░░░░░░░  currently: degree ・ in education
+   in-process    ███░░░░░░░░░  currently: degree ・ looking for opportunity
    capacity      ░░░░░░░░░░░░  open for collaboration
 ```
 
