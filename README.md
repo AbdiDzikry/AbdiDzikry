@@ -1,34 +1,36 @@
 ```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║            おまかせ ・ O M A K A S E                                ║
-║            ────────────────────────────────                          ║
-║            "leave it to the chef"                                   ║
-║                                                                      ║
-║            A curated menu of one engineer's craft.                 ║
+║          改善 ・ K A I Z E N                                       ║
+║          ──────────────────────────────                             ║
+║          "continuous improvement, one small step at a time"        ║
+║          change for the better · より良く変わる                     ║
 ║                                                                      ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  chef : SULTHAN ABDI DZIKRY                                        ║
-║  role : Software Engineer · UI/UX ・ ソフトウェアエンジニア          ║
-║  base : Telkom University · Informatics (sedang berjalan)          ║
+║  worker   : SULTHAN ABDI DZIKRY                                    ║
+║  job role : Software Engineer & UI/UX · ソフトウェアエンジニア       ║
+║  status   : actively improving · 改善中                            ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
-Everything below is served in the order it pleases you. There is no
-hurry. Zen ・ 静けさ.
+This workspace runs on the principles of the shop floor — order,
+discipline, and the belief that small, daily improvements compound
+into something lasting. ・ 淡々と、静かに、改善し続ける。
+
+---
 
 <details>
-<summary><b>手仕事 ・ about the craft</b> — aperitif, a few quiet facts</summary>
+<summary><b>5S ・ 5ステップ</b> — the housekeeping of a tidy mind</summary>
 
 <br/>
 
-> *A dish is not finished when it looks complete. It is finished when
-> nothing else can be taken away. The same holds for code.*
-
-- **focus** — Next.js · Laravel 11 · headless architecture
-- **discipline** — zero-discrepancy systems, polished without effort
-- **superpower** — turning tangled UI/UX into calm, dependable logic
-- **seasoning** — a little restraint, a lot of care
+| 5S      | Kanji      | meaning                          | in practice here                    |
+|---------|------------|----------------------------------|-------------------------------------|
+| Seiri   | 整理       | sort, separate                   | only necessary tools kept           |
+| Seiton  | 整頓       | set in order                     | clean architecture, tidy structure  |
+| Seiso   | 清掃       | shine, clean                     | readable, well-kept code            |
+| Seiketsu| 清潔       | standardize                      | consistent conventions & flow       |
+| Shitsuke| しつけ     | sustain, discipline              | ship on time, no shortcuts          |
 
 </details>
 
@@ -38,92 +40,81 @@ hurry. Zen ・ 静けさ.
 
 <br/>
 
-## 一 ・ 本日の献立 · today's menu
+## 一 ・ 工程表 · the process line
 
-The chef's specialty tonight. Order directly, no ticket required.
+A production line where design and logic feed one another.
 
 ```
-   ┌──────────────────────────────────────────────────────────────┐
-   │  THINK      · PLANNING FIRST, CODE SECOND                     │
-   │  ─────────────────────────────────────────────────────────── │
-   │  ┌────────────────────┐   ┌────────────────────┐             │
-   │  │  DESIGN ・ デザイン  │   │  LOGIC ・ ロジック    │             │
-   │  │  Figma · Tailwind   │   │  React · Next · Laravel          │
-   │  │  UI/UX · flow       │   │  Node · PHP · APIs                │
-   │  └────────────────────┘   └────────────────────┘             │
-   │                                                              │
-   │  balance in every plate : 花より団子                          │
-   │  (substance before style)                                     │
-   └──────────────────────────────────────────────────────────────┘
+   ┌───────────────┐     ┌───────────────┐     ┌───────────────┐
+   │  INSPECTION   │     │  PROCESSING    │     │  INSPECTION   │
+   │  ・ inspection │ ──▶ │ ・ 加工          │ ──▶ │ ・ QC check    │
+   │  requirement  │     │  build & code  │     │  test & ship  │
+   └───────────────┘     └───────────────┘     └───────────────┘
+        ▲                    │                      │
+        └────────────────────┴──────────────────────┘
+                 feedback loop · カイゼンループ
 ```
 
-<sub>plein of technique — served raw:</sub>
-`JavaScript · TypeScript · React · Next.js · Tailwind CSS · PHP · Laravel · MySQL · Git · Figma · Postman`
+`raw material · 素材:` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `PHP` `Laravel` `MySQL` `Git` `Figma` `Postman`
 
 ---
 
 <br/>
 
-## 二 ・ おもてなし · past service
+## 二 ・ 稼働実績 · the work order
 
-Where this chef has been trained. Each line a course, each course a story.
+Previous shifts completed on this line. Each course an order we fulfilled.
 
 ```
-  ┌────────────────────────────────────────────────────────────────┐
-  │  course 1    PT DHARMA POLIMETAL                              │
-  │              IT Digitalisasi · Intern                          │
-  │              systems used by 1,000+ employees,                │
-  │              zero discrepancy in the kitchen.                  │
-  │                                                                │
-  │  course 2    CODETAG STUDIO                                   │
-  │              Software Developer                               │
-  │              end-to-end crafted UI/UX & logic for clients.     │
-  │                                                                │
-  │  course 3    TELKOM AMOEBA                                    │
-  │              UX Researcher                                    │
-  │              technical data, translated into strategy.         │
-  └────────────────────────────────────────────────────────────────┘
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   │  ORDER 01   PT DHARMA POLIMETAL                   │
+   │  job        IT Digitalisasi · Intern              │
+   │  output     digital systems used by 1,000+ staff  │
+   │  defect     ZERO · 不良ゼロ                       │
+   │---------------------------------------------------
+   │  ORDER 02   CODETAG STUDIO                        │
+   │  job        Software Developer                    │
+   │  output     end-to-end UI/UX & logic for clients  │
+   │  defect     consistent, on-spec                   │
+   │---------------------------------------------------
+   │  ORDER 03   TELKOM AMOEBA                         │
+   │  job        UX Researcher                         │
+   │  output     data → product strategy               │
+   │  defect     none recorded                         │
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 ---
 
 <br/>
 
-## 三 ・ 帳簿 · the ledger
+## 三 ・ KPI パネル · the gauges
 
-An honest tally of the trips to the market. Additions still arriving;
-an open tab welcomes all orders.
+The machine reports honestly. Output rises as the line keeps improving.
 
 ```
-   served          ▓▓▓░░░░░░░  3 courses completed
-   in the kitchen  ▓░░░░░░░░░  currently plating : degree
-   sous-chefs      ░░░░░░░░░░  open to collaboration
+   uptime        ██████████░░  3 orders completed
+   in-process    ███░░░░░░░░░  currently: degree ・ in education
+   capacity      ░░░░░░░░░░░░  open for collaboration
 ```
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF9E80&icon_color=FF9E80&text_color=8b9e8b&ring_color=FF9E80" alt="ledger" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF9E80&icon_color=FF9E80&text_color=8b9e8b&ring_color=FF9E80" alt="KPI panel" />
 </p>
-
-```
-  ┌──────────────────────────────────────────────┐
-  │  お会計 ・ the bill (for the curious)         │
-  │     languages used · 使用言語                  │
-  └──────────────────────────────────────────────┘
-```
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&hide_border=true&bg_color=00000000&title_color=FF9E80&text_color=8b9e8b" width="46%" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&hide_border=true&bg_color=00000000&title_color=FF9E80&text_color=8b9e8b" width="46%" alt="material used" />
 </p>
 
-<sup>· the ledger stays honest — it fills as the kitchen works ·</sup>
+<sup>· the gauge stays honest — it climbs as the work gets done ·</sup>
 
 ---
 
 <br/>
 
-## 四 ・ つながり · a table for you
+## 四 ・ 相談窓口 · the contact window
 
-The chef welcomes guests. Pull up a seat.
+Need work done well, or a pair of hands on the line? Open an order.
 
 ```
    portfolio   →  https://website-sulthan.vercel.app/
@@ -137,9 +128,9 @@ The chef welcomes guests. Pull up a seat.
 ```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║            心を込めて ・ season, serve, repeat                      ║
+║       今日より少し良く。明日よりさらに。・ one better than today.    ║
 ║                                                                      ║
-║            Arigatou gozaimasu · thank you for dining                ║
+║    改善は終わらない ・ kaizen never truly ends                       ║
 ║                                                                      ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
