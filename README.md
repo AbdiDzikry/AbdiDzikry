@@ -47,7 +47,7 @@ A production line where design and logic feed one another.
 ```
    ┌───────────────┐     ┌───────────────┐     ┌───────────────┐
    │  INSPECTION   │     │  PROCESSING    │     │  INSPECTION   │
-   │  ・ inspection │ ──▶ │ ・ 加工          │ ──▶ │ ・ QC check    │
+   │  ・ inspection │ ──▶ │ ・ 加工         │ ──▶ │ ・ QC check │
    │  requirement  │     │  build & code  │     │  test & ship  │
    └───────────────┘     └───────────────┘     └───────────────┘
         ▲                    │                      │
