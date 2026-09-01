@@ -1,116 +1,171 @@
-<!-- HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════
+     SULTHAN ZEN · Japanese Nature Themed GitHub Profile
+     ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=300&section=header&text=WELCOME%20TO%20MY%20DIGITAL%20SPACE&fontSize=45&fontAlignY=35&animation=twinkling&desc=SULTHAN%20ABDI%20DZIKRY%20%E2%80%A2%20SOFTWARE%20ENGINEER&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9e80&height=120&section=header&text=☀&fontSize=60&fontAlignY=45&desc=S%20U%20L%20T%20H%20A%20N&descSize=22&descAlignY=58&animation=twinkling" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&size=30&duration=3200&pause=900&color=FF8C94&vCenter=true&width=620&lines=侍+%E2%80%A2+ソフトウェアエンジニア;Samurai+%E2%80%A2+Software+Engineer;今日もコーディング・今日も美しさ;Code+with+grace,+design+with+discipline" alt="Typing SVG" />
 </div>
 
-<!-- CALL TO ACTION (CTA) BUTTONS -->
+---
+
 <div align="center">
-  <p><i>Architecting scalable backends & designing pixel-perfect frontends.</i></p>
   <a href="https://website-sulthan.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/❀_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/sulthan-abdi-dzikry">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/❀_LinkedIn-FF8C94?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:sulthanabdi1@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-ea4335?style=flat&logo=gmail&logoColor=white" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/❀_Contact-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
+  <a href="https://medium.com/@sulthanabdi">
+    <img src="https://img.shields.io/badge/❀_Medium-1b1b1b?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
-<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
-<!-- ABOUT SECTION (LANDING PAGE STYLE) -->
-<h2 align="center">⚡ THE ENGINEER BEHIND THE CODE</h2>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa5749fb28d68d2efe3aa2667ef1fbec/images/footer.svg" width="100%">
+
+<!-- ═══════════════ ABOUT · プロフィール ═══════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> 桜 · PROFILE · プロフィール
+</h2>
+
+<div align="center">
+  <i>~ 花より団子 · Balance between beauty and function ~</i>
+  <br/>
+  <i>Architecting scalable backends & designing pixel-perfect frontends.</i>
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 Quick Facts</h3>
+      <h3>⚡ Quick Facts · プロフィール</h3>
       <ul>
-        <li>🎓 <b>Education:</b> Telkom University (Informatics Engineering)</li>
-        <li>💡 <b>Focus:</b> Next.js, Laravel 11, Headless Architecture</li>
+        <li>🎓 <b>Education:</b> Telkom University · Informatics Engineering</li>
+        <li>💡 <b>Focus:</b> Next.js · Laravel 11 · Headless Architecture</li>
         <li>🛡️ <b>Quality:</b> Delivering Zero-Discrepancy operational systems.</li>
         <li>🌟 <b>Superpower:</b> Translating complex UI/UX into robust backend logic.</li>
       </ul>
-      <br>
+      <br/>
       <blockquote>
-        <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+        ≪ <i>"The Way of the Engineer is the art of the invisible. Polished on the inside, effortless without."</i> ≫
       </blockquote>
     </td>
     <td width="45%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius: 15px;" alt="Coding GIF" />
+      <img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 12px;" alt="Anime Coding GIF" />
     </td>
   </tr>
 </table>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa5749fb28d68d2efe3aa2667ef1fbec/images/footer.svg" width="100%">
 
-<!-- TECHNOLOGY STACK -->
-<h2 align="center">💻 TECHNOLOGY STACK</h2>
+<!-- ═══════════════ TECH STACK · 技術 ═══════════════ -->
+<h2 align="center">💻 TECH STACK · 技術スタック</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,php,laravel,mysql,git,figma,postman&theme=dark&perline=10" alt="Tech Stack" />
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa5749fb28d68d2efe3aa2667ef1fbec/images/footer.svg" width="100%">
+
+<!-- ═══════════════ CAREER · 経歴 ═══════════════ -->
+<h2 align="center">💼 CAREER · 経歴</h2>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <h3>🏭 PT Dharma Polimetal</h3>
+        <p><b>IT Digitalisasi Intern</b></p>
+        <p><i>Built zero-discrepancy digital operational systems used by 1,000+ employees.</i></p>
+      </td>
+      <td width="33%" align="center">
+        <h3>💻 Codetag Studio</h3>
+        <p><b>Software Developer</b></p>
+        <p><i>Spearheaded end-to-end creative UI/UX & logic programming for client projects.</i></p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📱 Telkom Amoeba</h3>
+        <p><b>UX Researcher</b></p>
+        <p><i>Translated technical research data into actionable digital product strategies.</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa5749fb28d68d2efe3aa2667ef1fbec/images/footer.svg" width="100%">
+
+<!-- ═══════════════ GITHUB STATS · 統計 ═══════════════ -->
+<h2 align="center">📈 GITHUB STATS · 統計</h2>
+
+<!-- Animated Contribution Snake -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,php,laravel,mysql,git,figma,postman&theme=dark&perline=10" alt="Tech Stack" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AbdiDzikry/AbdiDzikry/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdiDzikry&theme=rogue&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+</p>
 
-<!-- CAREER HIGHLIGHTS (FEATURE CARDS) -->
-<h2 align="center">💼 CAREER HIGHLIGHTS</h2>
+<!-- Stats + Top Languages + Streak -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF8C94&icon_color=B5D8B0&bg_color=0d1117" width="46%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C94&bg_color=0d1117" width="36%" alt="Top Languages" />
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🏭 PT Dharma Polimetal</h3>
-      <p><b>IT Digitalisasi Intern</b></p>
-      <p><i>Built zero-discrepancy digital operational systems used by 1,000+ employees.</i></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>💻 Codetag Studio</h3>
-      <p><b>Software Developer</b></p>
-      <p><i>Spearheaded end-to-end creative UI/UX & logic programming for client projects.</i></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>📱 Telkom Amoeba</h3>
-      <p><b>UX Researcher</b></p>
-      <p><i>Translated technical research data into actionable digital product strategies.</i></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdiDzikry&theme=tokyonight&hide_border=true&fire=FF8C94&ring=FF8C94&currStreakNum=B5D8B0" alt="GitHub Streak" />
+</div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Profile Trophies -->
+<h2 align="center">🏆 SALVAGED ARTIFACTS · 戦利品</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdiDzikry&theme=onedark&row=2&column=4&margin-w=12&margin-h=12&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+</p>
 
-<!-- DASHBOARD & ANALYTICS -->
-<h2 align="center">📈 DASHBOARD & ANALYTICS</h2>
+<br/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa5749fb28d68d2efe3aa2667ef1fbec/images/footer.svg" width="100%">
+
+<!-- ═══════════════ MEDIUM · メディア ═══════════════ -->
+<h2 align="center">📰 LATEST WRITINGS · 最新記事</h2>
 
 <p align="center">
-  <!-- GitHub Stats (Disembunyikan sementara sampai ada public commit agar tidak error) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="45%" alt="GitHub Stats" /> -->
-  
-  <a href="https://steamcommunity.com/profiles/76561199009444546/">
-    <img src="https://badges.steamprofile.com/profile/default/steam/76561199009444546.png" width="45%" alt="Steam Profile" />
-  </a>
+  <b>Lay of the Land — My Latest Medium Publications:</b>
 </p>
 
 <p align="center">
-  <b>Latest Medium Publications:</b><br><br>
   <a href="https://medium.com/@sulthanabdi">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sulthanabdi/0" alt="Recent Article 1" width="45%">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sulthanabdi/0" alt="Recent Article 1" width="45%" />
   </a>
   &nbsp;
   <a href="https://medium.com/@sulthanabdi">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sulthanabdi/1" alt="Recent Article 2" width="45%">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sulthanabdi/1" alt="Recent Article 2" width="45%" />
   </a>
 </p>
 
-<!-- FOOTER -->
+<br/>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=150&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdiDzikry&theme=rogue&hide_border=true&bg_color=0d1117&hide_title=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9e80&height=120&section=footer&text=ありがとう・Arigatou&fontSize=22&fontAlignY=75" width="100%" />
+</div>
+
+<div align="center">
+  <i>🌸 心を込めて · Crafted with heart 🌸</i>
 </div>
