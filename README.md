@@ -15,23 +15,25 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Animated Dynamic Typing Banner -->
+<!-- Animated Dynamic Typing Banner (Monochrome White/Zinc) -->
 <a href="https://website-sulthan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=FF9E80&center=true&vCenter=true&width=580&height=35&lines=Software+Engineer+%26+UI%2FUX+Specialist;Applying+Manufacturing+Discipline+to+Digital+Systems;Built+ERP%2FWMS+%26+Quality+Systems+for+1%2C000%2B+Staff;Zero+Defect+Mindset+%E3%83%BB+%E4%B8%8D%E8%89%AF%E3%82%BC%E3%83%AD" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=FFFFFF&center=true&vCenter=true&width=580&height=35&lines=Software+Engineer+%26+UI%2FUX+Specialist;Applying+Manufacturing+Discipline+to+Digital+Systems;Built+ERP%2FWMS+%26+Quality+Systems+for+1%2C000%2B+Staff;Zero+Defect+Mindset+%E3%83%BB+%E4%B8%8D%E8%89%AF%E3%82%BC%E3%83%AD" alt="Typing Banner" />
 </a>
 
+<br/>
+
 <p align="center">
-  <a href="https://website-sulthan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-FF9E80?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/sulthan-abdi-dzikry"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sulthanabdi1@gmail.com"><img src="https://img.shields.io/badge/COMMUNICATION-DISPATCH-8B9E8B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AbdiDzikry&color=FF9E80&style=for-the-badge&label=QC+INSPECTIONS" alt="Visitor Counter" />
+  <a href="https://website-sulthan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-18181b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sulthan-abdi-dzikry"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-18181b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sulthanabdi1@gmail.com"><img src="https://img.shields.io/badge/DISPATCH-EMAIL-18181b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AbdiDzikry&color=27272a&style=flat-square&label=QC+INSPECTIONS" alt="Visitor Counter" />
 </p>
 
 </div>
 
 ---
 
-### 🏭 The Philosophy ・ 現場主義
+### [ 現場主義 ] The Philosophy
 
 > *"This workspace operates on the timeless discipline of the shop floor: rigorous order, zero-defect vigilance, and the belief that incremental improvements compound into enduring systems."*  
 > **淡々と、静かに、改善し続ける。**
@@ -39,11 +41,11 @@
 <br/>
 
 <details>
-<summary><b>📐 5S Methodology ・ 5ステップの規律</b> — <i>Click to inspect system ergonomics</i></summary>
+<summary><b>[ 5S PROTOCOL ] 5ステップの規律</b> — <i>Click to expand inspection guidelines</i></summary>
 
 <br/>
 
-| 5S Protocol | Kanji | Industrial Principle | Digital Software Practice |
+| Protocol | Kanji | Industrial Principle | Digital Software Practice |
 | :--- | :---: | :--- | :--- |
 | **Seiri** | 整理 | *Sort & Separate* | Prune unused dependencies, dead code, and redundant UI controls. |
 | **Seiton** | 整頓 | *Set in Order* | Deterministic folder structure, clean architecture, predictable flows. |
@@ -70,24 +72,20 @@ An integrated production line where human ergonomics and backend architecture re
                                Feedback Telemetry Loop ・ カイゼンループ
 ```
 
-### ⚙️ Raw Materials & Machine Tooling
+### [ RAW MATERIALS & TOOLING ]
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <!-- Design & Tools -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git_VCS-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/React_19-18181b?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer_Motion-18181b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Laravel-18181b?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/MongoDB-18181b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Figma-18181b?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -99,7 +97,7 @@ High-stakes industrial systems deployed with measurable impact.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 01. Automated Integrated System (AIS)</h3>
+      <h3>[ ORDER 01 ] Automated Integrated System (AIS)</h3>
       <p><b>Enterprise ERP/WMS Backbone for Smart Factory Operations</b></p>
       <ul>
         <li><b>Client:</b> PT Dharma Controlcable Indonesia</li>
@@ -108,11 +106,11 @@ High-stakes industrial systems deployed with measurable impact.
         <li><b>Defect Rate:</b> <code>ZERO ・ 不良ゼロ</code></li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Stack-Laravel_•_MongoDB_•_SAP-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/STACK-Laravel_•_MongoDB_•_SAP-27272a?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ 02. Nonconformity Integrated System</h3>
+      <h3>[ ORDER 02 ] Nonconformity Integrated System</h3>
       <p><b>Quality Issue Tracking & Resolution Platform</b></p>
       <ul>
         <li><b>Client:</b> Manufacturing Division (PT Dharma Polimetal)</li>
@@ -121,13 +119,13 @@ High-stakes industrial systems deployed with measurable impact.
         <li><b>Standard:</b> IATF 16949 / ISO 9001 Compliance</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Stack-Next.js_•_Express_•_Recharts-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/STACK-Next.js_•_Express_•_Recharts-27272a?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ 03. DOORS Digital Ecosystem</h3>
+      <h3>[ ORDER 03 ] DOORS Digital Ecosystem</h3>
       <p><b>Smart Facility & Meeting Room Reservation Engine</b></p>
       <ul>
         <li><b>Organization:</b> PT Dharma Polimetal Tbk</li>
@@ -135,18 +133,18 @@ High-stakes industrial systems deployed with measurable impact.
         <li><b>Scale:</b> Utilized by 1,000+ active enterprise employees with zero schedule collisions.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Stack-React_•_Tailwind_•_REST-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/STACK-React_•_Tailwind_•_REST-27272a?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 04. Digital Quality & Strategy Research</h3>
+      <h3>[ ORDER 04 ] Digital Quality & Strategy Research</h3>
       <p><b>Applied Research on Human Error & Lean Software</b></p>
       <ul>
         <li><b>Focus:</b> Peer-referenced insights linking shop-floor Kaizen principles with digital design systems.</li>
         <li><b>Publications:</b> Continuous inspection, KLM latency optimization, and institutional trust architectures.</li>
       </ul>
       <p>
-        <a href="https://website-sulthan.vercel.app/blog"><img src="https://img.shields.io/badge/Read_Papers-Insights_Archive-FF9E80?style=flat-square" /></a>
+        <a href="https://website-sulthan.vercel.app/blog"><img src="https://img.shields.io/badge/READ_PAPERS-Insights_Archive-27272a?style=flat-square" /></a>
       </p>
     </td>
   </tr>
@@ -167,12 +165,12 @@ High-stakes industrial systems deployed with measurable impact.
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/AbdiDzikry">
-          <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF9E80&icon_color=FF9E80&text_color=8b9e8b&ring_color=FF9E80" alt="GitHub Metrics" />
+          <img src="https://github-readme-stats.vercel.app/api?username=AbdiDzikry&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=A1A1AA&text_color=A1A1AA&ring_color=52525B" alt="GitHub Metrics" />
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/AbdiDzikry">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&hide_border=true&bg_color=00000000&title_color=FF9E80&text_color=8b9e8b" alt="Language Distribution" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiDzikry&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=A1A1AA" alt="Language Distribution" />
         </a>
       </td>
     </tr>
